@@ -73,3 +73,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Fluid Flux plugin content (licensed, not included in repo)
+Content/FluidFlux/
+
+# The Lighthouse of No Return plugin content (licensed, not included in repo)
+Content/TheLightHouseOfNoReturn/
