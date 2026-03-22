@@ -75,6 +75,14 @@
 		{
 			"Name": "MoviePipelineMaskRenderPass",
 			"Enabled": true
+		},
+		{
+			"Name": "GaeaUnrealTools",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }

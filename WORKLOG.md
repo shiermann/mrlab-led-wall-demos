@@ -1,11 +1,12 @@
 # Work Log
 
-**Total Hours Spent: 14h**  
-Total Hours for Demo 1: 12h 45min
+**Total Hours Spent: 20h**  
+Total Hours for Demo 1: 18h 45min
 
 
 | Date | Duration | Comment | Demo |
 |---|---|---|---|
+| 22.03.2026 | 6h | Create new island with Gaea, import it to UE, add ocean and character | Demo 1 |
 | 17.03.2026 | 2h | Debug and fix Fluid Flux swimming component | Demo 1 |
 | 15.03.2026 | 4h | Troubleshoot Fluid Flux swimming component configuration for custom character | Demo 1 |
 | 14.03.2026 | 6h | Implement ocean to new level, shape landscape, set up TheLightHouseOfNoReturn asset, integrate Player and Animations | Demo 1 |
