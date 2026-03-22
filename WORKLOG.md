@@ -1,11 +1,12 @@
 # Work Log
 
-**Total Hours Spent: 20h**  
-Total Hours for Demo 1: 18h 45min
+**Total Hours Spent: 20h 30min**
+Total Hours for Demo 1: 19h 15min
 
 
 | Date | Duration | Comment | Demo |
 |---|---|---|---|
+| 22.03.2026 | 30min | Add sprinting to the character | Demo 1 |
 | 22.03.2026 | 6h | Create new island with Gaea, import it to UE, add ocean and character | Demo 1 |
 | 17.03.2026 | 2h | Debug and fix Fluid Flux swimming component | Demo 1 |
 | 15.03.2026 | 4h | Troubleshoot Fluid Flux swimming component configuration for custom character | Demo 1 |
