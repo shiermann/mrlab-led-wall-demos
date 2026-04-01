@@ -1,11 +1,12 @@
 # Work Log
 
-**Total Hours Spent: 27h 30min**
-Total Hours for Demo 1: 26h 15min
+**Total Hours Spent: 28h 30min**
+Total Hours for Demo 1: 27h 15min
 
 
 | Date | Duration | Comment | Demo |
 |---|---|---|---|
+| 01.04.2026 | 1h | Add boat on landscape | Demo 1 |
 | 30.03.2026 | 2h | Add river component on landscape | Demo 1 |
 | 27.03.2026 | 3h | Fix issue of landscape not rendering to the ground map | Demo 1 |
 | 26.03.2026 | 1h | Research on SimulationDomain and issue of landscape not rendering to the ground map | Demo 1 |
