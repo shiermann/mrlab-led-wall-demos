@@ -1,11 +1,12 @@
 # Work Log
 
-**Total Hours Spent: 35h**
-Total Hours for Demo 1: 31h 45min
+**Total Hours Spent: 36h**
+Total Hours for Demo 1: 32h 45min
 
 
 | Date | Duration | Comment | Demo |
 |---|---|---|---|
+| 23.04.2026 | 1h | Meeting with Lukas Pezzei to attach N-display to character's camera and test demo | Demo 1 |
 | 21.04.2026 | 3h | Change third person to first person view, add Ultra Dynamic Sky Plugin, add key bindings to change camera of character and time of day, delete unused assets | Demo 1 |
 | 15.04.2026 | 1h 30min | Add landscape of Fluid Flux demo to my environment, set to corresponding gamemode, research assets  | Demo 1 |
 | 09.04.2026 | 2h | Meeting with Peter Kán about integration of N-Display and testing out demos on led wall | |
