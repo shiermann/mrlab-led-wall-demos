@@ -1,11 +1,14 @@
 # Work Log
 
-**Total Hours Spent: 36h**
-Total Hours for Demo 1: 32h 45min
+**Total Hours Spent: 40h 30min**
+Total Hours for Demo 1: 37h 15min
 
 
 | Date | Duration | Comment | Demo |
 |---|---|---|---|
+| 22.05.2026 | 1h | Replace Base Character with MetaHuman, adjusting parameters | Demo 1 |
+| 16.05.2026 | 30min | Place pillows in scene  | Demo 1 |
+| 07.05.2026 | 3h | Build a MetaHuman and implementing it into the demo level | Demo 1 |
 | 23.04.2026 | 1h | Meeting with Lukas Pezzei to attach N-display to character's camera and test demo | Demo 1 |
 | 21.04.2026 | 3h | Change third person to first person view, add Ultra Dynamic Sky Plugin, add key bindings to change camera of character and time of day, delete unused assets | Demo 1 |
 | 15.04.2026 | 1h 30min | Add landscape of Fluid Flux demo to my environment, set to corresponding gamemode, research assets  | Demo 1 |
