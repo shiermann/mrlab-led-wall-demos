@@ -77,11 +77,11 @@ DerivedDataCache/*
 # Fluid Flux plugin content (licensed, not included in repo)
 Content/FluidFlux/
 
-# The Lighthouse of No Return plugin content (licensed, not included in repo)
-Content/TheLightHouseOfNoReturn/
-
 # MWLandscapeAutoMaterial plugin content (licensed, not included in repo)
 Content/MWLandscapeAutoMaterial/
 
 # UltraDynamicSky plugin content (licensed, not included in repo)
 Content/UltraDynamicSky/
+
+# MAEBeechForest plugin content (licensed, not included in repo)
+Content/MAEBeechForest/

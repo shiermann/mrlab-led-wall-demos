@@ -1,11 +1,14 @@
 # Work Log
 
-**Total Hours Spent: 40h 30min**
+**Total Hours Spent: 44h 30min**
 Total Hours for Demo 1: 37h 15min
+Total Hours for Demo 2: 4h
 
 
 | Date | Duration | Comment | Demo |
 |---|---|---|---|
+| 31.05.2026 | 1h | Add Ultra Dynamic Weather and debug why shaders are not displaying | Demo 2 |
+| 30.05.2026 | 3h | Research forest plugins, implement MAEBeechForest, replace sky with Ultra Dynamic Sky and add character into scene | Demo 2 |
 | 22.05.2026 | 1h | Replace Base Character with MetaHuman, adjusting parameters | Demo 1 |
 | 16.05.2026 | 30min | Place pillows in scene  | Demo 1 |
 | 07.05.2026 | 3h | Build a MetaHuman and implementing it into the demo level | Demo 1 |
