@@ -1,12 +1,19 @@
 # Work Log
 
-**Total Hours Spent: 44h 30min**
-Total Hours for Demo 1: 37h 15min
-Total Hours for Demo 2: 4h
+**Total Hours Spent: 46h 45min**
+
+Total Hours for Demo 1: 37h 15min<br>
+Total Hours for Demo 2: 6h 45min<br>
+Total Hours for Demo 3: 2h 45min
 
 
 | Date | Duration | Comment | Demo |
 |---|---|---|---|
+| 13.07.2026 | 1h | Add Ultra Dynamic Sky and Weather and NDCBase character to demos | Demo 2 & 3 |
+| 09.07.2026 | 2h | Testing performance of MWBirchForest and AlpineLandscape on LED wall | Demo 2 & 3 |
+| 02.07.2026 | 30min | Adding new assets to project and copying levels | Demo 2 & 3 |
+| 19.06.2026 | 2h | Research on new demo 2 and 3 assets in Fab store | Demo 2 & 3 |
+| 03.06.2026 | 1h | Show Prof. Kaufmann and team the demos on wall | |
 | 31.05.2026 | 1h | Add Ultra Dynamic Weather and debug why shaders are not displaying | Demo 2 |
 | 30.05.2026 | 3h | Research forest plugins, implement MAEBeechForest, replace sky with Ultra Dynamic Sky and add character into scene | Demo 2 |
 | 22.05.2026 | 1h | Replace Base Character with MetaHuman, adjusting parameters | Demo 1 |
