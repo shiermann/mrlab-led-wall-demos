@@ -1,6 +1,6 @@
 # Work Log
 
-**Total Hours Spent: 46h 45min**
+**Total Hours Spent: 49h 15min**
 
 Total Hours for Demo 1: 37h 15min<br>
 Total Hours for Demo 2: 6h 45min<br>
@@ -9,6 +9,7 @@ Total Hours for Demo 3: 2h 45min
 
 | Date | Duration | Comment | Demo |
 |---|---|---|---|
+| 15.07.2026 | 2h30min | Add time and weather switcher with ui elements on demos | All |
 | 13.07.2026 | 1h | Add Ultra Dynamic Sky and Weather and NDCBase character to demos | Demo 2 & 3 |
 | 09.07.2026 | 2h | Testing performance of MWBirchForest and AlpineLandscape on LED wall | Demo 2 & 3 |
 | 02.07.2026 | 30min | Adding new assets to project and copying levels | Demo 2 & 3 |
