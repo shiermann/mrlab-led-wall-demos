@@ -1,15 +1,16 @@
 # Work Log
 
-**Total Hours Spent: 61h 30min**
+**Total Hours Spent: 65h 5min**
 
-Total Hours for Demo 1: 40h 25min<br>
-Total Hours for Demo 2: 9h 55min<br>
-Total Hours for Demo 3: 9h 55min<br>
+Total Hours for Demo 1: 40h 37min<br>
+Total Hours for Demo 2: 10h 7min<br>
+Total Hours for Demo 3: 10h 7min<br>
 General / Meetings / Setup: 4h 15min
 
 
 | Date | Duration | Comment | Demo |
 |---|---|---|---|
+| 23.07.2026 | 35min | Fix bug to not see footsteps in snow in first person and decrease camera sensitivity | All |
 | 23.07.2026 | 1h30min | Add Weather Override Volume for regional snow on hills | Demo 3 |
 | 23.07.2026 | 2h30min | Add Fluid Flux to Alpine Landscape | Demo 3 |
 | 21.07.2026 | 2h | Add affection of wind intensity of UDW on trees and bushes in demos | All |
