@@ -1,15 +1,16 @@
 # Work Log
 
-**Total Hours Spent: 63h 0min**
+**Total Hours Spent: 61h 30min**
 
 Total Hours for Demo 1: 40h 25min<br>
 Total Hours for Demo 2: 9h 55min<br>
-Total Hours for Demo 3: 8h 25min<br>
+Total Hours for Demo 3: 9h 55min<br>
 General / Meetings / Setup: 4h 15min
 
 
 | Date | Duration | Comment | Demo |
 |---|---|---|---|
+| 23.07.2026 | 1h30min | Add Weather Override Volume for regional snow on hills | Demo 3 |
 | 23.07.2026 | 2h30min | Add Fluid Flux to Alpine Landscape | Demo 3 |
 | 21.07.2026 | 2h | Add affection of wind intensity of UDW on trees and bushes in demos | All |
 | 19.07.2026 | 3h | Add UDW to materials, so that snow particles and wetness is shown on landscape and objects | All |
